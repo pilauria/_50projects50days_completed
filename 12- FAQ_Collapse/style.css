@@ -46,9 +46,9 @@ h1 {
   opacity: 0.2;
   top: 20px;
   left: 20px;
-  z-index: 0; /* to make sure that the icnos are behind everything */
+  z-index: 0; /* to make sure that the icons are behind everything */
 }
-/* *** Unicode from fontawesome, when we put the code in css, we need to include after the font family from fontwesome(line after  */
+/* *** Unicode from fontawesome, when we put the code in css, we need to include after the font family from fontwesome(line after)  */
 
 .faq.active::before {
   color: #3498db;
